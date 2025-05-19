@@ -9,4 +9,8 @@ This Tableau workbook visualizes global power dynamics across regions and time u
   - Economic indicators over time
   - Global trends in power distribution
 
-📊 To explore the dashboard, open the `.twb` file using Tableau Desktop.
+To explore the dashboard, open the `.twb` file using Tableau Desktop.
+## 📸 Dashboard Preview
+
+![Dashboard Preview](dashboard-preview.png)
+
